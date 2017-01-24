@@ -1,6 +1,5 @@
 {
-  "employees": {
-    "employee": [
+  "employee": [
       {
         "id": "1",
         "firstName": "James",
@@ -22,5 +21,4 @@
         "lastName": "Parker"
       }
     ]
-  }
 }
