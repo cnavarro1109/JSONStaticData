@@ -19,6 +19,11 @@
         "id": "3",
         "firstName": "Carl",
         "lastName": "Parker"
+      },
+      {
+        "id": "4",
+        "firstName": "Sarah",
+        "lastName": "Bennett"
       }
     ]
 }
