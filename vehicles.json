@@ -1,0 +1,17 @@
+{
+  "vehicles": [
+      {
+        "id": "1",
+        "make": "Fiat",
+        "model": "Abarth",
+        "imageUrl": "http://abarthecn.nohup.it/695/assets/img/overlay-7.jpg"
+      },
+      {
+        "id": "2",
+        "make": "Toyota",
+        "model": "Camry",
+        "imageUrl": "http://o.aolcdn.com/commerce/autodata/images/USC60TOC021A021001.jpg"
+      }
+      
+    ]
+}
